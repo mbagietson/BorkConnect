@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=DATA_S2 Pin=J1-7
+Added Pin To Net: NetName=DATA_S1 Pin=J1-7

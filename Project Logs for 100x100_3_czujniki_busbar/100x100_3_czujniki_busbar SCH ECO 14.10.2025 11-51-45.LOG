@@ -1,0 +1,5 @@
+Remove Pin=J1A-1 From Net=BB-
+Remove Pin=J1A-2 From Net=DATA_S1
+Remove Pin=J1B-5 From Net=BB+
+Remove Pin=J1B-6 From Net=DATA_S2
+Remove Pin=J1A-7 From Net=DATA_S3

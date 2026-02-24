@@ -1,0 +1,11 @@
+Added Component: Designator=Q1(GSF3407)
+Add component (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Good-Ark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GSF3407"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0,1, 10=0,064, 25=0,0564, 100=0,0471, 250=0,0428, 500=0,0402, 1000=0,03806 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "10489"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "4786-GSF3407CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetC10_1 Pin=Q1-2
+Added Pin To Net: NetName=+12 Pin=Q1-3

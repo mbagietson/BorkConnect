@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=SI2343CDS-T1-GE3
+PartCategory=MOSFET (P-Channel)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=1.1
+Released=2016-06-15 06:49:05
+Downloaded=2025-11-05 13:50:23
+3D=Y

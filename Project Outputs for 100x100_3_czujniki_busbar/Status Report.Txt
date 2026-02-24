@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [100x100_3_czujniki_busbar.PrjPcb]
+   Generated File[100x100_3_czujniki_busbar-Plated.TXT]
+   Generated File[100x100_3_czujniki_busbar-NonPlated.TXT]
+   Generated File[100x100_3_czujniki_busbar.LDP]
+   Generated File[100x100_3_czujniki_busbar.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:25:10 On 14.11.2025

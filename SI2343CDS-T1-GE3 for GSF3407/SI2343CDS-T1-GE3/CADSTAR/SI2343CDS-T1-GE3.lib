@@ -1,0 +1,16 @@
+.SI2343CDS-T1-GE3 :1 ;Trans MOSFET P-CH 30V 4.2A 3-Pin Vishay SI2343CDS-T1-GE3 P-channel MOSFET Transistor, 4.7 A, -30 V, 3-Pin TO-236
+SOT95P237X112-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN SI2343CDS-T1-GE3
+~!Mouser Part Number (781-SI2343CDS-T1-GE3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI2343CDS-T1-GE3?qs=WX95TUc1y56rXCTRPp%252BkZQ%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (SI2343CDS-T1-GE3)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA23/1582493.pdf)
+~!Height (1.12mm)
+~!3D_Model (SI2343CDS-T1-GE3)
+SI2343CDS-T1-GE3
+1.1!U 2.1!U 3.1!U 
